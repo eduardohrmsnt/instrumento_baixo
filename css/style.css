@@ -1,0 +1,42 @@
+.estilo_cor{
+    background-color: black;
+    
+}
+
+.nav-link{
+    color: white;
+    font-weight: 700;
+}
+
+.nav-link:hover{
+    color: rgb(146, 144, 144);
+    font-weight: 700;
+}
+
+.navbar-brand{
+    color: rgb(117, 12, 30);
+    font-family: fantasy;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.navbar-brand:hover{
+    color: rgb(187, 22, 50);
+    
+}
+
+#container {
+    display: inline-block;
+    position: relative;
+  }
+  
+  #container figcaption {
+    position: absolute;
+    top: 100px;
+    left: 20px;
+    font-family: arial;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+  }
+
